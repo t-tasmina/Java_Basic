@@ -1,6 +1,6 @@
 # se217-oop-lab
 <br>
-# Student Information
+**Student Information**
 <br>
 Name: Tasmina Akter
 <br>
@@ -11,3 +11,8 @@ Section: 45-H2
 Course: SE 217 - Object Oriented Programming Lab
 <br>
 Semester: Fall 2026
+<br>
+
+**Repository Description**
+<br>
+This repository contains lab exercises and practice solutions for the SE 217: Object Oriented Programming Lab course.
