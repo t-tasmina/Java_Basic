@@ -1,6 +1,6 @@
-# Java_Basic
+# se217-oop-lab
 <br>
-Student Information
+# Student Information
 <br>
 Name: Tasmina Akter
 <br>
